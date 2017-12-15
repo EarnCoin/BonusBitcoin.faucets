@@ -1,5 +1,14 @@
 # BonusBitcoin.faucets
 
+<ul>
+  <li>Wait(min): 15</li>
+  <li>Min(satoshi): 8</li>
+  <li>Max(satoshi): 5000</li>
+  <li>Bonus(%): 5</li>
+  <li>Withdraw: coinpot</li>
+</ul>
+
+
 Bonus Bitcoin is a website that give you bitcoin for completing a captcha from 26/11/2015. This is one of the best bitcoin faucets around. The latest status attributed to Bonus Bitcoin is: Legit. 
 
 The rule is simple:
@@ -18,10 +27,6 @@ Referral: 1 level referral of 50% of all the claims made by the reffered.
 
 <img src="https://i1.wp.com/2.bp.blogspot.com/-Ab8ne9ijoyw/WIYfJQX_fAI/AAAAAAAABXM/Fz_HhbqoHkgATXZjKfmR1n7eayVASTpEwCEw/s400/111.gif?resize=400%2C50&#038;ssl=1" width="400" height="50" border="0" data-recalc-dims="1" /></a></div>
 <p>Bonus Bitocin是一個&#8221;免費&#8221;賺比特幣的網站</p>
-<p>[獲取時間]:15分鐘</p>
-<p>[最低付款]:10000聰(不收手續費)</p>
-<p>[每日獎勵]:餘額5%(下面介紹)</p>
-<p>[是否真的付款]:是</p>
 <p>一開始會到網站頁面，點選Sign in</p>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="https://i2.wp.com/1.bp.blogspot.com/-QbDAwuPwEZQ/WIYbjXgNtXI/AAAAAAAABWk/n9CvCMyjxjcLbIZRzZFPBmmQfbOFqFz8QCLcB/s1600/1.jpg?ssl=1"><img src="https://i2.wp.com/1.bp.blogspot.com/-QbDAwuPwEZQ/WIYbjXgNtXI/AAAAAAAABWk/n9CvCMyjxjcLbIZRzZFPBmmQfbOFqFz8QCLcB/s400/1.jpg?resize=400%2C363&#038;ssl=1" width="400" height="363" border="0" data-recalc-dims="1" /></a></div>
 <div style="clear: both; text-align: center;"></div>
